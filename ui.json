@@ -1,3 +1,3 @@
 {
-	"adminportal": "http://%%IP%%:8384"
+	"adminportal": "http://%%IP%%/syncthing/"
 }
